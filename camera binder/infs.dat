@@ -1,9 +1,0 @@
-CameraBinder(V2) starting options are : [fileaddress], [frameWidth max:768], [frameHeight max:1366],[capture camera?], [capture screen?], [use histogram?], [TimerInterval : 25 frames per seccond],[MaxFrames]
-D:\\tmp\\
-320
-240
-True
-False
-False
-1000
-54000
